@@ -13,3 +13,5 @@ const CardList = ({ robots }) => {
 }
 
 export default CardList;
+
+//we have a cardlist component that lists cards and what we need to do is to pass to this component a property which in this case is robots
